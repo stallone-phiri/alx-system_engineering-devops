@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -al --group-directories-first, s/$/,/, s/\(.*)\//\1\//, \n'', s/,$/\n/
