@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lp --group-directories-first --ignore-backups | tr '\n' ',' | sed 's/,$/\n/'
+ls -lp --group-directories-first --ignore-
